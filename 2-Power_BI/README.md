@@ -1,4 +1,4 @@
-I have realized this dashboard through Power BI for monitoring the business trips of LA company based employers.
+I have realized this dashboard through Power BI for monitoring the employers business trips of LA company based.
 
 I wanted to highlight how many specific and detailed information we can get through data visualization tool once we have collected data. For example we can get the following:
 
