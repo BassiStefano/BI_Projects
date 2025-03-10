@@ -9,5 +9,3 @@ I wanted to highlight through this project that we can learn different informati
 3 - The total number of company employers that deal with working trips each year is between 157 and 182. This numbers can give information about the necessity of hiring new people for doing operations related with travelling. On the other hand, if the CEO thinks this number is too high, he can relocate some of these people and make them working on local operations that don't require a business trip.  
 
 4 - The number we have highlighted at step 3, can be useful for making some budget considerations aswell. If we multiply the average cost of a business trip for the toal number of business trips, we get an estimator of the budget dedicated to this operations. This can be useful for decision making regarding budget management.
-
-Mockaroo was the website I have used to generate the dataset.
