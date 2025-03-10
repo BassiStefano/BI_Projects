@@ -1,4 +1,4 @@
-# BI_Projects
+# Project 3 - Python
 
 I wanted to show through this project that the algorithm of linear regression works correctly. 
 
