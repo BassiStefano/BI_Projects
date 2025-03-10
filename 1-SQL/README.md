@@ -9,4 +9,4 @@ I developed this project using SQL and I have splitted my work in two parts:
     2- Data analysis - I have written SQL queries for getting the business information I need for 
                        improving the business decisions making.
 
-I have just published my queries since company data were covered by copyright.
+I've published my queries since data were covered by copyright.
