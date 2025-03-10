@@ -1,4 +1,4 @@
-# Project2-Power BI
+# Project 2-Power BI
 
 I have realized this dashboard through Power BI for monitoring the employers business trips of LA company based.
 
