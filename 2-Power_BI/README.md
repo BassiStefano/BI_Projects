@@ -1,6 +1,6 @@
 # Project 2 - Power BI
 
-I have realized this dashboard through Power BI for monitoring the employers business trips of LA company based.
+I have realized this dashboard through Power BI for monitoring the employers business trips of LA based company.
 
 I wanted to highlight through this project that we can learn different information from Power BI dashboards; we can improve company decision making on people and budget management. For example we can get the following:
 
