@@ -1,3 +1,5 @@
+# Business Intelligence Projects
+
 I've realized these 3 projects using some of the main technologies for data analysis and business intelligence:
 
 Project 1 – SQL: ‘’The best features of my selling cars’’ 
