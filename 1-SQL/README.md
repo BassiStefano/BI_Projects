@@ -4,7 +4,7 @@ I developed this project using SQL and I have splitted my work in two parts:
 
     1- Data cleaning - in this phase I have removed rows ambiguity and I have prepared data for the analysis.
     
-    2- Data analysis - I haev written SQL queries for getting the business information I need for \
+    2- Data analysis - I haev written SQL queries for getting the business information I need for 
                        improving the business decisions making.
 
 I have just published my queries since data could be covered by copyright.
