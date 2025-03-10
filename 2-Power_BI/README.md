@@ -4,7 +4,7 @@ I wanted to highlight how many specific and detailed information we can get thro
 
 1 - The percentage of young people travelling is always below the 25,9% each year. The CEO of the company can think if it can be useful to increase the number of business trips done by young people in order to allow them to develope more experience.
 
-2 - In 2018 and 2021 the departures from Los Angeles were low compared to other years (around 50%-75%). Since the headquarter is based in LA, this data can lead to some doubts regarding the internal organization of the company. We definetely expect more departures from LA and a gap of departures in that year can represent a synonim of management problems.
+2 - In 2018 and 2021 the departures from Los Angeles were low compared to other years (around 50%-75%). Since the headquarter is based in LA, we definetely expect more departures from LA. A gap of departures in that years could lead us to check internal management problems.
 
 3 - The total number of company employers that deal with working trips each year is between 157 and 182. This numbers can give information about the necessity of hiring new people for doing operations related with travelling. On the other hand, if the boss think this number is too high, he can think to relocate some of these people and make them working on local operations that don't require a business trip.  
 
