@@ -2,7 +2,7 @@ I have realized this dashboard through Power BI for monitoring the employers bus
 
 I wanted to highlight through this project that we can learn different information from Power BI dashboards; we can improve company decision making on people and budget management. For example we can get the following:
 
-1 - The percentage of young people traveling is always below the 25,9% each year. The CEO of the company can think if it can be useful to increase the number of business trips done by young people in order to allow them to develope more experience.
+1 - The percentage of young people traveling is always below the 25,9% each year. The CEO of the company can think if it can be useful to increase the number of business trips done by young people in order to allow them to develop more experience.
 
 2 - In 2018 and 2021 the departures from Los Angeles were low compared to other years (around 50%-75%). Since the headquarter is based in LA, we definetely expect more departures from LA. A gap of departures in that years could lead us to check internal management problems.
 
