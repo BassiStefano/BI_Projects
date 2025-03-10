@@ -3,7 +3,7 @@
 /*
 Since I have to join the 3 tables, I have to make sure that the 
 Car_id (primary key) are the same in the rows of the 3 tables.
-I don’t have to take this result for granted since we have removed
+I donâ€™t have to take this result for granted since we have removed
 some rows in the step before.
 */
 
