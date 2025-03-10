@@ -1,3 +1,5 @@
+# Project-1 SQL
+
 This is a project that is useful for helping a used car company seller to understand which are the main features to keep and to erase for improving sales and decreasing customers claims.
 
 I developed this project using SQL and I have splitted my work in two parts:
