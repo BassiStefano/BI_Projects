@@ -11,7 +11,9 @@ NO_claims AS(
 		-- tot_NO_claims per gear_type
          SELECT   COUNT(car_id_sales) AS tot_NO_claims
                   ,gear_type
-         FROM     [dbo].[FINAL_complessiva]
+         FROM     [dbo].[FINAL_sales] 
+                  INNER JOIN [dbo].[FINAL_details] ON [dbo].[FINAL_sales].car_id_sales = [dbo].[FINAL_details].car_id_details
+                  INNER JOIN [dbo].[FINAL_claims]  ON [dbo].[FINAL_sales].car_id_sales = [dbo].[FINAL_claims].car_id_claims
          WHERE    claim_number IS NULL
          GROUP BY gear_type),
 
@@ -19,7 +21,9 @@ YES_claims AS(
 		-- tot_claims per gear_type
          SELECT   COUNT(car_id_sales) AS tot_claims
                   ,gear_type
-         FROM     [dbo].[FINAL_complessiva]
+         FROM     [dbo].[FINAL_sales] 
+                  INNER JOIN [dbo].[FINAL_details] ON [dbo].[FINAL_sales].car_id_sales = [dbo].[FINAL_details].car_id_details
+                  INNER JOIN [dbo].[FINAL_claims]  ON [dbo].[FINAL_sales].car_id_sales = [dbo].[FINAL_claims].car_id_claims
          WHERE    claim_number IS NOT NULL
          GROUP BY gear_type)
 
