@@ -21,7 +21,9 @@ YES_claims AS(
          -- tot_claims per has_tuning
          SELECT   COUNT(car_id_sales) AS tot_claims
                   ,has_tuning
-         FROM     [dbo].[FINAL_complessiva]
+         FROM     [dbo].[FINAL_sales] 
+                  INNER JOIN [dbo].[FINAL_details] ON [dbo].[FINAL_sales].car_id_sales = [dbo].[FINAL_details].car_id_details
+                  INNER JOIN [dbo].[FINAL_claims]  ON [dbo].[FINAL_sales].car_id_sales = [dbo].[FINAL_claims].car_id_claims
          WHERE    claim_number IS NOT NULL
          GROUP BY has_tuning)
 
